@@ -49,7 +49,7 @@ online-compiler/ ├── frontend/ │   ├── index.html       # Frontend
 
 2. Navigate to the project directory:
    ```bash
-   cd online-compiler
+   cd Compiler
 
 
 3. Install the backend dependencies:
