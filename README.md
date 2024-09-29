@@ -45,22 +45,22 @@ online-compiler/ ├── frontend/ │   ├── index.html       # Frontend
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-compiler.git
+   git clone https://github.com/Adityasiig/Compiler.git
 
 2. Navigate to the project directory:
-
-cd online-compiler
+   ```bash
+   cd online-compiler
 
 
 3. Install the backend dependencies:
-
-cd backend
-npm install
+   ```bash
+   cd backend
+   npm install
 
 
 4. Start the backend server:
-
-node app.js
+    ```bash
+   node app.js
 
 
 5. Open frontend/index.html in your web browser to access the online compiler.
@@ -115,4 +115,4 @@ If you have any questions or feedback, feel free to reach out:
 
 Email: adityaajaysingh0104@gmail.com
 
-GitHub: Adityasiig
+GitHub: https://github.com/Adityasiig
